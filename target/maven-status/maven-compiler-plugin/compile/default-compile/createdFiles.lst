@@ -1,0 +1,8 @@
+model\BootstrapTableCustomerFormatter.class
+model\Message.class
+dao\CustomerMapper.class
+util\DBCP2DataSourceUtils.class
+dao\CustomerDao.class
+model\Customer.class
+model\User.class
+model\UserList.class
